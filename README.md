@@ -1,5 +1,5 @@
 # ArduPilot-GSOC
-Repository of Proof-of-Concept and other relevant examples for ArduPilot-GSOC proposal.
+Repository of Proof-of-Concept and other relevant examples for ArduPilot-GSOC proposal: AI Chat WebTool for MP/QGC.
 <br><br>
 
 ## Video Proof of Concept for Webapp communicating with GCS SITL
